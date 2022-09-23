@@ -1,0 +1,7 @@
+CW 2: https://codd.cs.gsu.edu/~jlimbasia1/WP/CW/CW2/recipe.html
+	https://codd.cs.gsu.edu/~jlimbasia1/WP/CW/CW2/signature.html
+	https://codd.cs.gsu.edu/~jlimbasia1/WP/CW/CW2/program1.html
+	https://codd.cs.gsu.edu/~jlimbasia1/WP/CW/CW2/program1.css
+	https://codd.cs.gsu.edu/~jlimbasia1/WP/CW/CW2/front.css
+
+Github: 

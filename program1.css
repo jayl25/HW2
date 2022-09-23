@@ -1,0 +1,144 @@
+
+#recipe-body{
+    background-color: #FFCC00;    
+}
+
+.item1{
+    width: 12%;
+    height: 28px;
+    margin-left: 30px;
+    padding-top: 12px;
+    background: linear-gradient(to right, #EEEE84 90%, #003366 10%);
+    float: left;
+}
+
+.link{
+    padding-left: 60px;
+    padding-top: 20px;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: none;
+    color: #003366;
+    font-family: Georgia;
+}
+
+.main-heading{
+    text-align: center;
+    font-family: Century Gothic;
+}
+
+.sub-heading{
+    text-align: left;
+    font-family: Century Gothic;
+}
+
+.main-heading-background{
+    background-color: #F0F0F0;
+    color: #A4A400;
+}
+
+.bolden{
+    font-weight: bold;
+}
+
+.text{
+    font-family: Georgia;
+}
+th{
+    background-color: #003366;
+    border: 2px solid white;
+    color: white;
+    padding: 5px;
+}
+
+caption{
+    font-weight: bold;
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family: Century Gothic;
+}
+
+table{
+    margin-top: 20px;
+    background-color: #CC9933;
+    color: #FFFFFF ;
+}
+
+td{
+    border: 2px solid white;
+    padding: 5px;
+    font-family: Georgia;
+}
+tr{
+    font-family: Century Gothic;
+}
+
+#home-body{
+    background-image: url("image2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow: hidden;
+    font-size: 20px;
+}
+
+#content{
+    height: 118px;
+    text-align: center;
+    margin-top: 50px;
+    background: linear-gradient(to right, #D4145A, #FBB03B);
+    color: bisque;
+}
+
+#color{
+    color: brown;
+}
+
+.button{
+    padding: 12px 20px;
+    text-align: center;
+    margin-right: 10px;
+    background: linear-gradient(#662D8C, #ED1E79);
+    cursor: pointer;
+    border: none;
+}
+
+.home-link{
+    text-decoration: none;
+    color: bisque;
+    font-size: 20px;
+}
+
+#soup{
+    width: 20%;
+    height: auto;
+    float: left;
+    margin-right: 15px;
+}
+
+#about{
+    font-weight: bold;
+    font-family: serif;
+    margin-top: 45px;
+    text-indent: 25px;
+    font-size: 30px;
+}
+
+.page3-heading1{
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+#page3-body{
+    background: linear-gradient(to bottom, #eacda3 50%, #d6ae7b 50%);
+}
+
+.page3-heading2{
+    letter-spacing: 4px;
+}
+
+.list-indent{
+    padding: 0.5em;
+    font-weight: bold;
+    
+}
